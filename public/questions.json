@@ -1,0 +1,65 @@
+[
+	{
+		"id": "1",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you feel appropriately rewarded for your work?",
+		"enabled": true,
+		"required": true
+	},
+	{
+		"id": "2",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Are you happy with your working hours??",
+		"enabled": false,
+		"required": false
+	},
+	{
+		"id": "3",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you feel recognised when you do something well?",
+		"enabled": true,
+		"required": true
+	},
+	{
+		"id": "4",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you have enough information to do your job well?",
+		"enabled": true,
+		"required": true
+	},
+	{
+		"id": "5",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you feel information is openly shared with you at work?",
+		"enabled": true,
+		"required": true
+	},
+	{
+		"id": "6",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you have the resources you need to do your job well?",
+		"enabled": true,
+		"required": true
+	},
+	{
+		"id": "7",
+		"type": "scale",
+		"min": 0,
+		"max": 10,
+		"title": "Do you feel empowered to make decisions?",
+		"enabled": true,
+		"required": false
+	}
+]
